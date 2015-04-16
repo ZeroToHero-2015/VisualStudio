@@ -45,6 +45,10 @@
 
 - Step: `F10`, step into: `F11`
 
+- build în linia de comandă: `Developer Tools`, `msbuild *.csproj`
+
+- `/t:Clean` etc.
+
 ## nuget
 
 - managementul dependințelor (versiuni etc.)
