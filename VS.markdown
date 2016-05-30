@@ -2,7 +2,7 @@
 
 ## De bază
 
-- folosim Visual Studio 2013 Community Edition (bun & gratis)
+- folosim Visual Studio 2015 Community Edition (bun & gratis)
 
 - e important să învățați [shortcut-uri][shortcut], eventual [gamificat][foo]
 
