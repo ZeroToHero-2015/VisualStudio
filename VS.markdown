@@ -65,7 +65,7 @@
 
 - pachetele for avea la rîndul lor dependințe
 
-[shortcut]: http://visualstudioshortcuts.com/2013/
+[shortcut]: http://visualstudioshortcuts.com/2015/
 [foo]:      https://www.shortcutfoo.com/app/dojos/microsoft-visual-studio-win
 
 [newProject]:       NewProject.png       "Fereastra New Project"
