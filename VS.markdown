@@ -1,5 +1,8 @@
 # Despre Visual Studio & alte unelte
 
+- [Dev Essentials|https://www.visualstudio.com/products/visual-studio-dev-essentials-vs]
+- [Pluralsight|https://www.pluralsight.com/browse/software-development]
+
 ## De bază
 
 - folosim Visual Studio 2015 Community Edition (bun & gratis)
