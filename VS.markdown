@@ -1,7 +1,7 @@
 # Despre Visual Studio & alte unelte
 
-- [Dev Essentials][https://www.visualstudio.com/products/visual-studio-dev-essentials-vs]
-- [Pluralsight][https://www.pluralsight.com/browse/software-development]
+- [Dev Essentials](https://www.visualstudio.com/products/visual-studio-dev-essentials-vs)
+- [Pluralsight](https://www.pluralsight.com/browse/software-development)
 
 ## De bază
 
