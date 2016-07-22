@@ -68,6 +68,6 @@
 [shortcut]: http://visualstudioshortcuts.com/2015/
 [foo]:      https://www.shortcutfoo.com/app/dojos/microsoft-visual-studio-win
 
-[newProject]:       NewProject.png       "Fereastra New Project"
+[newProject]:       /NewProject.png?raw=true       "Fereastra New Project"
 [solutionExplorer]: SolutionExplorer.png "Solution Explorer (ctrl-W ctrl-S)"
 [nuget]:            ManageNugetPackages.png "Manage NuGet Packages"
